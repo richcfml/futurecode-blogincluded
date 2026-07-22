@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" width="640" height="160">
+  <g transform="translate(20,40) scale(0.8)">
+    <path d="M30,30 L14,50 L30,70" fill="none" stroke="#140F2D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M70,30 L86,50 L70,70" fill="none" stroke="#140F2D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="50" cy="50" r="11" fill="none" stroke="#D9822B" stroke-width="4"></circle>
+    <circle cx="50" cy="50" r="4.5" fill="#D9822B"></circle>
+  </g>
+  <text x="120" y="100" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="64" letter-spacing="-1">
+    <tspan fill="#140F2D">Future</tspan><tspan fill="#D9822B">Code</tspan>
+  </text>
+</svg>

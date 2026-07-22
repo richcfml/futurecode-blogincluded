@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/jetbrains-mono/wght.css';
+@import '@fontsource-variable/source-serif-4/wght.css';
+@import '@fontsource-variable/public-sans/wght.css';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+
+
+@theme {
+    --font-headlines: 'Source Serif 4 Variable';
+    --font-body: 'Public Sans Variable';
+    --font-labels: 'JetBrains Mono Variable';
+
+    --color-base-midnight-violet: #140F2D;
+    --color-base-carrot-orange: #F49D37;
+    --color-base-lilac-ash: #BAABBD;
+    --color-base-periwinkle: #C9C9EE;
+    --color-base-chestnut: #983628;
+}
+
+
